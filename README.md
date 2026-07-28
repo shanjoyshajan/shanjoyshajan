@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanjoyshajan
-- 👀 I’m interested in Ruby,PHP,codeigniter,ROR,laravel
+- 👀 I’m interested in Node,Ruby,PHP,codeigniter,ROR,laravel
 - 🌱 I’m currently learning ROR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
